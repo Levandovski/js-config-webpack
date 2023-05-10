@@ -7,3 +7,7 @@
 ### Running project
 
 #### npm run dev
+
+### Generating build
+
+#### npm run build
